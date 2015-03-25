@@ -1,4 +1,4 @@
 ---
 sublimetext_dl_source: "http://c758482.r82.cf2.rackcdn.com"
 sublimetext_build: 3080
-sublimetext_tmp_deb: "/tmp/sublimetext.deb"
+sublimetext_tmp_deb: "/tmp/sublimetext-build-{{ sublimetext_build }}.deb"
