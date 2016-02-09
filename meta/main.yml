@@ -54,6 +54,7 @@ galaxy_info:
     versions:
      - utopic
      - trusty
+     - wily
   #  - all
   #  - lucid
   #  - maverick
